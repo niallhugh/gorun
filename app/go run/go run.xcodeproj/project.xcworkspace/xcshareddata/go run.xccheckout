@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D126F57F-9D92-4B2D-A456-8311E4673EBA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>go run</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E70B78C45485740E2C3A4D604B44C6CC8709173B</key>
+		<string>https://github.com/niallhugh/gorun.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>app/go run/go run.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E70B78C45485740E2C3A4D604B44C6CC8709173B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/niallhugh/gorun.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E70B78C45485740E2C3A4D604B44C6CC8709173B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E70B78C45485740E2C3A4D604B44C6CC8709173B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gorun</string>
+		</dict>
+	</array>
+</dict>
+</plist>
